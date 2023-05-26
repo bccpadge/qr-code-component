@@ -127,9 +127,12 @@ body {
   margin-inline: 1.5625rem;
 }
 
+footer {
+  position: fixed;
+  bottom: 1em;
+}
+
 /* attribution */
 .attribution {
   font-size: 0.75rem;
-  text-align: center;
-  margin-block-start: 3.4375rem;
 }
